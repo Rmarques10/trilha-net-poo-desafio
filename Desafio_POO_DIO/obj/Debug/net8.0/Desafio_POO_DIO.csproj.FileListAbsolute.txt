@@ -1,0 +1,14 @@
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\bin\Debug\net8.0\Desafio_POO_DIO.exe
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\bin\Debug\net8.0\Desafio_POO_DIO.deps.json
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\bin\Debug\net8.0\Desafio_POO_DIO.runtimeconfig.json
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\bin\Debug\net8.0\Desafio_POO_DIO.dll
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\bin\Debug\net8.0\Desafio_POO_DIO.pdb
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.AssemblyInfoInputs.cache
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.AssemblyInfo.cs
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.csproj.CoreCompileInputs.cache
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.dll
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\refint\Desafio_POO_DIO.dll
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.pdb
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\Desafio_POO_DIO.genruntimeconfig.cache
+C:\Users\rafin\source\repos\Desafio_POO_DIO\Desafio_POO_DIO\obj\Debug\net8.0\ref\Desafio_POO_DIO.dll
